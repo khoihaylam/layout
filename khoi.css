@@ -1,0 +1,44 @@
+.albulm{
+    background-color:black;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
+.example{
+    text-align: center;
+}
+.main{
+    background-color: blue;
+    color: white;
+}
+.thumbnail{
+    background-color:blue;
+    width:200px;
+    height: 500px;
+    padding: 20px;
+}
+.img{
+    width: 200px;
+    height: 150px;
+}
+.thumbnail-2{
+    background-color: aqua;
+    width: 200px;
+    height: 500px;
+    padding: 20px;
+}
+.exit{
+    background-color: gray;
+}
+.thumbnail-3{
+    background-color: aqua;
+    width: 200px;
+    height: 500px;
+    padding: 20px;
+}
+.tong{
+    display: flex;
+    justify-content: space-around;
+}
